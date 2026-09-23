@@ -30,7 +30,9 @@ The objective of this analysis was to answer questions such as:
 
 ## Dataset
 
-The dataset contains information for **10,000 bank customers**.
+The dataset used in this project is the **Bank Customer Churn Dataset** from [Maven Analytics Data Playground](https://app.mavenanalytics.io/datasets?search=bank+customer+churn).
+
+It contains 10,000 customer records with information such as geography, age, balance, number of products, activity status, and churn status.
 
 Key fields include:
 
