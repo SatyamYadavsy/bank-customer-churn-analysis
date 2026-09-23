@@ -147,7 +147,7 @@ These measures were used throughout the dashboard to make the visuals interactiv
 
 ## Dashboard
 
-![Bank Customer Churn Dashboard](dashboard.png)
+![Bank Customer Churn Dashboard](Dashboard.png)
 
 The dashboard includes:
 
